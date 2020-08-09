@@ -13,18 +13,18 @@ It’s different from a "skeleton" project, in that it goes further than a basic
 
 ## Todo
 
-[ ] Instructions for scaffolding
-[ ] Instructions for deploying (Setting up sub-repos in cms & web) on Vercel
-[ ] Remove starter stuff
-[ ] Add sensible defaults
-[ ] Set up Chakra UI
-[ ] Create some starter components
-[ ] Create some starter Sanity objects
-[ ] Create some starter Sanity documents
-[ ] Set up sanity Dashboard
-[ ] Set up sanity DeskStructure
-[ ] Add helpful comments to code
-[ ] Create wiki with tutorials on how to do various things
+- [ ] Instructions for scaffolding
+- [ ] Instructions for deploying (Setting up sub-repos in cms & web) on Vercel
+- [ ] Remove starter stuff
+- [ ] Add sensible defaults
+- [ ] Set up Chakra UI
+- [ ] Create some starter components
+- [ ] Create some starter Sanity objects
+- [ ] Create some starter Sanity documents
+- [ ] Set up sanity Dashboard
+- [ ] Set up sanity DeskStructure
+- [ ] Add helpful comments to code
+- [ ] Create wiki with tutorials on how to do various things
 
 ## Contributing
 
