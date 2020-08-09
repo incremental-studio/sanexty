@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "web",
+    "cms"
+  ],
+  "stream": true,
+  "version": "independent"
+}

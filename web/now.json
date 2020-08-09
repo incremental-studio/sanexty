@@ -1,0 +1,12 @@
+{
+  "env": {
+    "FABRIC_PREVIEW_SECRET": "@fabric_preview_secret",
+    "FABRIC_API_TOKEN": "@fabric_api_token",
+    "FABRIC_PROJECT_ID": "@fabric_project_id"
+  },
+  "build": {
+    "env": {
+      "FABRIC_PROJECT_ID": "@fabric_project_id"
+    }
+  }
+}
